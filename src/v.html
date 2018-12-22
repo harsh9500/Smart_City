@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="Google Chrome">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Smart City</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  </head>
+
+  <body onLoad="App1.init();">
+
+    <div class="container" style="width: 900px;">
+      <div class="row">
+        <div class="col-lg-12">
+          <h1 class="text-center">Vehicles</h1>
+          <hr/>
+          <br/>
+          <div id="loader">
+            <p class="text-center">Loading...</p>
+          </div>
+          <div id="content" style="display: none;">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">Owner</th>
+                  <th scope="col">Name</th>
+                  <th scope="col">Ownership</th>
+                  <th scope="col">Registration number</th>
+                  <th scope="col">Maker Model</th>
+                  <th scope="col">Date of registration</th>
+                  <th scope="col">Chassis Number</th>
+                </tr>
+              </thead>
+              <tbody id="Results">
+              </tbody>
+            </table>
+            <hr/>
+            <p id="accountAddress" class="text-center"></p><br>
+            <form onSubmit="App1.sell(); return false;">
+              <div class="form-group">
+                <h1>Selling details</h1>
+    <input type="text" id="rcnum" placeholder="Enter RC Number" class="form-control"></input><br>
+      <input type="text" id="buyerid" placeholder="Enter Buyer ID" class="form-control"></input><br>
+      <input type="text" id="sp" placeholder="Enter Selling Price" class="form-control"></input><br>
+    
+              </div>
+              <button type="submit" class="btn btn-primary">Sell</button>
+              <hr />
+            </form>
+            <form onSubmit="App1.buy(); return false;">
+              <div class="form-group">
+                <h1>Buying details</h1>
+    <input type="text" id="rcnumber" placeholder="Enter RC Number" class="form-control"></input><br>
+    <input type="text" id="sellerid" placeholder="Enter Seller ID" class="form-control"></input><br>
+    <input type="text" id="p" placeholder="Enter Selling Price" class="form-control"></input><br>
+    
+              </div>
+              <button type="submit" class="btn btn-primary">Buy</button>
+              <hr />
+            </form>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/web3.min.js"></script>
+    <script src="js/truffle-contract.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

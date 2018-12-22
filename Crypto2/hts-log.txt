@@ -1,0 +1,57 @@
+HTTrack3.49-2 launched on Fri, 21 Dec 2018 19:17:26 at http://www.demo-ninetheme.com/cryptoland/
+(httrack http://www.demo-ninetheme.com/cryptoland/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:23:36	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/wp-content/themes/cryptoland/fonts/fontello/fontello.eot (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/93f55.css)
+19:23:36	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/wp-content/themes/cryptoland/fonts/fontello/fontello.woff (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/93f55.css)
+19:23:36	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/wp-content/themes/cryptoland/fonts/fontello/fontello.ttf (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/93f55.css)
+19:23:36	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/wp-content/themes/cryptoland/fonts/fontello/fontello.svg (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/93f55.css)
+19:23:36	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/wp-content/themes/cryptoland/css/owl.video.play.png (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/93f55.css)
+19:23:36	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/wp-content/themes/cryptoland/images/check2.svg (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/93f55.css)
+19:24:08	Warning: 	Moved Permanently for www.demo-ninetheme.com/cryptoland/?p=688
+19:24:08	Warning: 	File has moved from www.demo-ninetheme.com/cryptoland/?p=688 to http://www.demo-ninetheme.com/cryptoland/2018/10/23/start-the-redemption-before-the-ico-completion-2/
+19:24:23	Warning: 	Moved Permanently for www.demo-ninetheme.com/cryptoland/?p=685
+19:24:23	Warning: 	File has moved from www.demo-ninetheme.com/cryptoland/?p=685 to http://www.demo-ninetheme.com/cryptoland/2018/10/23/new-trends-in-ui-ux-design-world-integration/
+19:24:23	Warning: 	Moved Permanently for www.demo-ninetheme.com/cryptoland/?p=683
+19:24:23	Warning: 	File has moved from www.demo-ninetheme.com/cryptoland/?p=683 to http://www.demo-ninetheme.com/cryptoland/2018/10/23/the-crypto-project-has-reached-seven-billions-2/
+19:24:23	Warning: 	Moved Permanently for www.demo-ninetheme.com/cryptoland/?p=190
+19:24:23	Warning: 	File has moved from www.demo-ninetheme.com/cryptoland/?p=190 to http://www.demo-ninetheme.com/cryptoland/2018/10/05/start-the-redemption-before-the-ico-completion/
+19:24:23	Warning: 	Moved Permanently for www.demo-ninetheme.com/cryptoland/?p=188
+19:24:23	Warning: 	File has moved from www.demo-ninetheme.com/cryptoland/?p=188 to http://www.demo-ninetheme.com/cryptoland/2018/10/05/the-crypto-project-has-reached-seven-billions/
+19:24:23	Warning: 	Moved Permanently for www.demo-ninetheme.com/cryptoland/?p=1
+19:24:23	Warning: 	File has moved from www.demo-ninetheme.com/cryptoland/?p=1 to http://www.demo-ninetheme.com/cryptoland/2018/09/27/new-trends-crypto-moneys/
+19:24:23	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/Trident/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/897f8.js)
+19:24:23	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/Edge/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/897f8.js)
+19:24:23	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/GET (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/897f8.js)
+19:24:23	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/THREE.CanvasRenderer has been moved to /examples/js/renderers/CanvasRenderer.js (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/897f8.js)
+19:24:23	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/THREE.SceneUtils has been moved to /examples/js/utils/SceneUtils.js (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/897f8.js)
+19:24:23	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/THREE.LensFlare has been moved to /examples/js/objects/Lensflare.js (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/897f8.js)
+19:24:23	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/Version/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/897f8.js)
+19:24:23	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/dist/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/897f8.js)
+19:24:23	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/2018/11/02/contact/ (from www.demo-ninetheme.com/cryptoland/category/bitcoin/)
+19:24:30	Warning: 	Moved Temporarily for www.demo-ninetheme.com/cryptoland/wp-admin/
+19:24:30	Warning: 	File has moved from www.demo-ninetheme.com/cryptoland/wp-admin/ to http://www.demo-ninetheme.com/cryptoland/wp-login.php?redirect_to=http%3A%2F%2Fwww.demo-ninetheme.com%2Fcryptoland%2Fwp-admin%2F&reauth=1
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/blog/Trident/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/e6bac.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/blog/Edge/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/e6bac.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/blog/GET (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/e6bac.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/blog/THREE.CanvasRenderer has been moved to /examples/js/renderers/CanvasRenderer.js (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/e6bac.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/blog/THREE.SceneUtils has been moved to /examples/js/utils/SceneUtils.js (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/e6bac.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/blog/THREE.LensFlare has been moved to /examples/js/objects/Lensflare.js (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/e6bac.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/blog/Version/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/e6bac.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/blog/dist/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/e6bac.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/2018/10/23/start-the-redemption-before-the-ico-completion-2/Trident/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/6ee87.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/2018/10/23/start-the-redemption-before-the-ico-completion-2/Edge/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/6ee87.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/2018/10/23/start-the-redemption-before-the-ico-completion-2/GET (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/6ee87.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/2018/10/23/start-the-redemption-before-the-ico-completion-2/THREE.CanvasRenderer has been moved to /examples/js/renderers/CanvasRenderer.js (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/6ee87.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/2018/10/23/start-the-redemption-before-the-ico-completion-2/THREE.SceneUtils has been moved to /examples/js/utils/SceneUtils.js (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/6ee87.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/2018/10/23/start-the-redemption-before-the-ico-completion-2/THREE.LensFlare has been moved to /examples/js/objects/Lensflare.js (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/6ee87.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/2018/10/23/start-the-redemption-before-the-ico-completion-2/Version/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/6ee87.js)
+19:24:31	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/2018/10/23/start-the-redemption-before-the-ico-completion-2/dist/ (from www.demo-ninetheme.com/cryptoland/wp-content/cache/minify/6ee87.js)
+19:24:33	Error: 	"Not Found" (404) at link www.demo-ninetheme.com/cryptoland/wp-admin/&reauth=1 (from www.demo-ninetheme.com/cryptoland/wp-login.php?redirect_to=http%3A%2F%2Fwww.demo-ninetheme.com%2Fcryptoland%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 7 seconds : 297 links scanned, 257 files written (11026267 bytes overall) [6708185 bytes received at 15710 bytes/sec], 6653936 bytes transferred using HTTP compression in 81 files, ratio 23%, 3.5 requests per connection
+(32 errors, 14 warnings, 0 messages)
