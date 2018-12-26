@@ -10,7 +10,7 @@ Metamask: https://metamask.io/
 
 Step 1. Clone the project
 
-git clone https://github.com/harsh9500/Smart_City
+git clone https://github.com/harsh9500/Smart_City.git
 
 Step 2. Install dependencies
 
